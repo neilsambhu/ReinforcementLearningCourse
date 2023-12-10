@@ -56,3 +56,5 @@ jupyter lab
 12/9/2023 10:20 PM: pip install of stable-baselines3 does not work. TODO: downgrade python to 3.8.  
 12/9/2023 10:25 PM: python 3.8 worked.  
 12/9/2023 10:46 PM: environment step function gives 5 values. TODO: try python 3.7.  
+12/9/2023 10:55 PM: there are still 5 values from the step function  
+12/9/2023 11:09 PM: I added the truncated value as an output from the step function.  
