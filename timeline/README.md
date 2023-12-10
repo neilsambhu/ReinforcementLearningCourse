@@ -58,3 +58,7 @@ jupyter lab
 12/9/2023 10:46 PM: environment step function gives 5 values. TODO: try python 3.7.  
 12/9/2023 10:55 PM: there are still 5 values from the step function  
 12/9/2023 11:09 PM: I added the truncated value as an output from the step function.  
+12/10/2023 1:36 PM: python command
+```
+(RLC2) nsambhu@CSE001022:~/github/ReinforcementLearningCourse$ jupyter lab
+```
