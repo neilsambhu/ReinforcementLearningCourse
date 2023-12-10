@@ -35,3 +35,23 @@ origin	git@github.com:neilsambhu/ReinforcementLearningCourse.git (push)
 upstream	git@github.com:nicknochnack/ReinforcementLearningCourse.git (fetch)
 upstream	git@github.com:nicknochnack/ReinforcementLearningCourse.git (push)
 ```
+12/9/2023 9:51 PM: there is a manual setting of the upstream for the push command
+```
+(base) nsambhu@CSE001022:~/github/ReinforcementLearningCourse$ git push origin
+fatal: The current branch NeilBranch0 has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin NeilBranch0
+
+(base) nsambhu@CSE001022:~/github/ReinforcementLearningCourse$ git push --set-upstream origin NeilBranch0 
+```
+12/9/2023 9:53 PM: TODO: create Anaconda environment.  
+12/9/2023 10:12 PM: TODO: work on coding example.  
+```
+pip install jupyterlab
+```
+```
+jupyter lab
+```
+12/9/2023 10:20 PM: pip install of stable-baselines3 does not work. TODO: downgrade python to 3.8.  
+12/9/2023 10:25 PM: python 3.8 worked.  
